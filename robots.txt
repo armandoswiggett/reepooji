@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahshoolu.zenroad.club/sitemap.xml
